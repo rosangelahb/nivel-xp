@@ -1,7 +1,12 @@
 ## Projeto desenvolvido para aula prática DIO.
 
-![Captura de Tela ()](https://github.com//Classificador-de-Nivel-de-Heroi/assets/88951197/4d9a153f-781e-45a6-b0db-858322006ea0)
+  
+<br> <br>
 
+<img 
+src="https://github.com/rosangelahb/nivel-xp/assets/88951197/c74a5997-d77d-40d9-93f6-18d1c0d9ac30" width="700px" align="center"/>
+
+<br> <br>
 
 ## Tecnologias
 
