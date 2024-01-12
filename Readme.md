@@ -1,10 +1,5 @@
 ## Projeto desenvolvido para aula prática DIO.
 
-  
-<br> <br>
-
-<br> <br>
-
 ## Tecnologias
 
 - HTML e CSS
