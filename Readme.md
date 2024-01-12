@@ -3,9 +3,6 @@
   
 <br> <br>
 
-<img 
-src="https://github.com/rosangelahb/nivel-xp/assets/88951197/c74a5997-d77d-40d9-93f6-18d1c0d9ac30" width="700px" align="center"/>
-
 <br> <br>
 
 ## Tecnologias
